@@ -1,0 +1,45 @@
+header {
+  background-image: url("../images/header.jpg");
+  background-size: cover;
+  height: 410px;
+  min-width: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 100px;
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+#navZone {
+  padding: 0; margin: 0;
+  text-align: center;
+  font-weight: bold;
+  font-family:'ZCOOL XiaoWei', serif;
+  font-size: 20px;
+}
+#navZone li {
+  display: inline;
+  list-style: none;
+  }
+#navZone a {
+  display:inline-block;
+	margin: 0 30px;
+}
+li,a {
+  color: #1c010c;
+}
+#welcomeText {
+  background-color: #A5CBDE;
+  padding: 10px;
+  justify-content: center;
+  text-align: justify;
+  font-weight: bold;
+  font-family:'ZCOOL XiaoWei', serif;
+  font-size: 20px;
+}
+img {
+  
+}
